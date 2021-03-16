@@ -1,2 +1,0 @@
-print ilana 
-print devops
